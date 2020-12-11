@@ -1,0 +1,15 @@
+{
+  "name": "my_html_css_projects",
+  "version": "1.0.0",
+  "description": "Este repositorio contem a coleção de projecto, usados para melhorar a minha skill em html e css",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "html",
+    "css"
+  ],
+  "author": "Joel S. Mbengui",
+  "license": "ISC"
+}
